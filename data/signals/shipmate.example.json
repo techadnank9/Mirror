@@ -1,0 +1,349 @@
+{
+ "name": "Shipmate",
+ "domain": "shipmate.example",
+ "sector": "Devtools",
+ "city": "Singapore",
+ "lat": 1.0653851041071587,
+ "lng": 104.0027012890756,
+ "headcount": 35,
+ "founded": 2023,
+ "description": "Shipmate builds devtools software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 20606
+  },
+  {
+   "month": "2025-03",
+   "visits": 20054
+  },
+  {
+   "month": "2025-04",
+   "visits": 19753
+  },
+  {
+   "month": "2025-05",
+   "visits": 20353
+  },
+  {
+   "month": "2025-06",
+   "visits": 19690
+  },
+  {
+   "month": "2025-07",
+   "visits": 19153
+  },
+  {
+   "month": "2025-08",
+   "visits": 19553
+  },
+  {
+   "month": "2025-09",
+   "visits": 19174
+  },
+  {
+   "month": "2025-10",
+   "visits": 18530
+  },
+  {
+   "month": "2025-11",
+   "visits": 18770
+  },
+  {
+   "month": "2025-12",
+   "visits": 18979
+  },
+  {
+   "month": "2026-01",
+   "visits": 19109
+  },
+  {
+   "month": "2026-02",
+   "visits": 19514
+  },
+  {
+   "month": "2026-03",
+   "visits": 18992
+  },
+  {
+   "month": "2026-04",
+   "visits": 19648
+  },
+  {
+   "month": "2026-05",
+   "visits": 20087
+  },
+  {
+   "month": "2026-06",
+   "visits": 19457
+  },
+  {
+   "month": "2026-07",
+   "visits": 18968
+  },
+  {
+   "month": "2026-08",
+   "visits": 19053
+  },
+  {
+   "month": "2026-09",
+   "visits": 19149
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Lead Product Manager",
+   "date": "2024-12-28",
+   "function": "product"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-02-06",
+   "function": "customer"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-02-20",
+   "function": "marketing"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-03-06",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-04-12",
+   "function": "ops"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-06-14",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-05-29",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-06-11",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-07-14",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-06-25",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-09-22",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-09-06",
+   "function": "sales"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-10-12",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-10-06",
+   "function": "marketing"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-10-28",
+   "function": "product"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-11-20",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-11-24",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-12-02",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-01-01",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-02-16",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-04-17",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-03-31",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-04-22",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-05-06",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-06-16",
+   "function": "product"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-05-21",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-07-17",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-07-30",
+   "function": "product"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-09-06",
+   "function": "ops"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2025-07-04",
+   "round": "Seed",
+   "amount_usd": 4000000.0,
+   "investors": [
+    "Lightspeed"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Omar Haddad",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2023-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "dbt",
+   "first_seen": null
+  },
+  {
+   "name": "HubSpot",
+   "first_seen": null
+  },
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  },
+  {
+   "name": "Datadog",
+   "first_seen": null
+  },
+  {
+   "name": "Outreach",
+   "first_seen": null
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  }
+ ],
+ "news": [],
+ "seo": {
+  "domain_rating": 31,
+  "keywords": 11855,
+  "backlinks": 11136
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

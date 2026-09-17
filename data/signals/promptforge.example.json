@@ -1,0 +1,544 @@
+{
+ "name": "Promptforge",
+ "domain": "promptforge.example",
+ "sector": "AI infra",
+ "city": "San Francisco",
+ "lat": 37.48189797229993,
+ "lng": -122.39060561538352,
+ "headcount": 300,
+ "founded": 2019,
+ "description": "Promptforge builds ai infra software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 48559
+  },
+  {
+   "month": "2025-03",
+   "visits": 50442
+  },
+  {
+   "month": "2025-04",
+   "visits": 52219
+  },
+  {
+   "month": "2025-05",
+   "visits": 55277
+  },
+  {
+   "month": "2025-06",
+   "visits": 54799
+  },
+  {
+   "month": "2025-07",
+   "visits": 52278
+  },
+  {
+   "month": "2025-08",
+   "visits": 46808
+  },
+  {
+   "month": "2025-09",
+   "visits": 44694
+  },
+  {
+   "month": "2025-10",
+   "visits": 42024
+  },
+  {
+   "month": "2025-11",
+   "visits": 37442
+  },
+  {
+   "month": "2025-12",
+   "visits": 35993
+  },
+  {
+   "month": "2026-01",
+   "visits": 32863
+  },
+  {
+   "month": "2026-02",
+   "visits": 30549
+  },
+  {
+   "month": "2026-03",
+   "visits": 29485
+  },
+  {
+   "month": "2026-04",
+   "visits": 27131
+  },
+  {
+   "month": "2026-05",
+   "visits": 24311
+  },
+  {
+   "month": "2026-06",
+   "visits": 22045
+  },
+  {
+   "month": "2026-07",
+   "visits": 20919
+  },
+  {
+   "month": "2026-08",
+   "visits": 18853
+  },
+  {
+   "month": "2026-09",
+   "visits": 17249
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-01-02",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-01-08",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-01-12",
+   "function": "marketing"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-01-02",
+   "function": "sales"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-02-12",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-02-04",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-02-20",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-02-22",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-03-04",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-03-12",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-03-21",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-03-15",
+   "function": "customer"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-04-22",
+   "function": "engineering"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-04-13",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-04-11",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-04-25",
+   "function": "product"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-05-05",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-05-09",
+   "function": "product"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-05-08",
+   "function": "product"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-05-11",
+   "function": "product"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-06-04",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-06-12",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-05-26",
+   "function": "sales"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-06-19",
+   "function": "product"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-06-02",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-07-08",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-07-11",
+   "function": "engineering"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-08-11",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-08-08",
+   "function": "engineering"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-07-26",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-08-28",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-08-31",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-09-02",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-09-12",
+   "function": "customer"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-09-25",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-09-25",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-09-23",
+   "function": "product"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-10-09",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-10-09",
+   "function": "customer"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-10-06",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-10-28",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-11-09",
+   "function": "sales"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-11-02",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-11-23",
+   "function": "product"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-11-28",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-12-10",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-01-14",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-01-12",
+   "function": "ops"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-01-14",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-12-29",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-12-31",
+   "function": "product"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-01-29",
+   "function": "product"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-02-18",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-02-10",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-01-23",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-03-13",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-03-06",
+   "function": "product"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-03-19",
+   "function": "sales"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-04-06",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-04-18",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-03-25",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-03-31",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-04-15",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-05-05",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-05-12",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-06-14",
+   "function": "marketing"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2023-09-19",
+   "round": "Series A",
+   "amount_usd": 10000000.0,
+   "investors": [
+    "Accel"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Dana Whitfield",
+   "title": "VP Sales",
+   "function": "sales",
+   "start_date": "2024-03-31",
+   "end_date": "2026-06-19"
+  },
+  {
+   "name": "Omar Haddad",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2019-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Amplitude",
+   "first_seen": null
+  },
+  {
+   "name": "HubSpot",
+   "first_seen": null
+  },
+  {
+   "name": "Stripe",
+   "first_seen": null
+  },
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  },
+  {
+   "name": "Intercom",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-07-20",
+   "title": "Promptforge lays off 30% of staff in restructuring",
+   "kind": "layoff",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 36,
+  "keywords": 17360,
+  "backlinks": 45318
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

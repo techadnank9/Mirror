@@ -1,0 +1,413 @@
+{
+ "name": "Storefold",
+ "domain": "storefold.example",
+ "sector": "Retail",
+ "city": "New York",
+ "lat": 40.563459169701076,
+ "lng": -73.81705538810165,
+ "headcount": 125,
+ "founded": 2023,
+ "description": "Storefold builds retail software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 39121
+  },
+  {
+   "month": "2025-03",
+   "visits": 40755
+  },
+  {
+   "month": "2025-04",
+   "visits": 41474
+  },
+  {
+   "month": "2025-05",
+   "visits": 41598
+  },
+  {
+   "month": "2025-06",
+   "visits": 42216
+  },
+  {
+   "month": "2025-07",
+   "visits": 41047
+  },
+  {
+   "month": "2025-08",
+   "visits": 42438
+  },
+  {
+   "month": "2025-09",
+   "visits": 44007
+  },
+  {
+   "month": "2025-10",
+   "visits": 42988
+  },
+  {
+   "month": "2025-11",
+   "visits": 42555
+  },
+  {
+   "month": "2025-12",
+   "visits": 41869
+  },
+  {
+   "month": "2026-01",
+   "visits": 41198
+  },
+  {
+   "month": "2026-02",
+   "visits": 42930
+  },
+  {
+   "month": "2026-03",
+   "visits": 44339
+  },
+  {
+   "month": "2026-04",
+   "visits": 43847
+  },
+  {
+   "month": "2026-05",
+   "visits": 42616
+  },
+  {
+   "month": "2026-06",
+   "visits": 41619
+  },
+  {
+   "month": "2026-07",
+   "visits": 40665
+  },
+  {
+   "month": "2026-08",
+   "visits": 40090
+  },
+  {
+   "month": "2026-09",
+   "visits": 40394
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-01-09",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-01-28",
+   "function": "product"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-03-25",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-03-21",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-04-17",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-04-15",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-05-10",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-05-06",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-06-12",
+   "function": "product"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-07-29",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-09-20",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-09-27",
+   "function": "product"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-10-20",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-11-08",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-11-15",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-11-27",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-12-08",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-01-19",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-12-28",
+   "function": "marketing"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-01-28",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-03-15",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-03-12",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-03-27",
+   "function": "product"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-04-28",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-06-18",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-07-10",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-07-03",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-08-04",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-08-08",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-07-27",
+   "function": "customer"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-07-27",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2026-08-09",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-08-27",
+   "function": "sales"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-09-05",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-09-15",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-09-01",
+   "function": "ops"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-09-07",
+   "function": "product"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2024-03-14",
+   "round": "Seed",
+   "amount_usd": 3000000.0,
+   "investors": [
+    "Index Ventures"
+   ]
+  },
+  {
+   "date": "2026-01-16",
+   "round": "Series A",
+   "amount_usd": 20000000.0,
+   "investors": [
+    "Founders Fund"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Elena Voss",
+   "title": "CMO",
+   "function": "marketing",
+   "start_date": "2026-09-07",
+   "end_date": null
+  },
+  {
+   "name": "Yuki Tanaka",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2023-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Outreach",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "name": "HubSpot",
+   "first_seen": null
+  },
+  {
+   "name": "Gong",
+   "first_seen": null
+  },
+  {
+   "name": "Segment",
+   "first_seen": null
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-16",
+   "title": "Storefold raises $20M Series A led by Founders Fund",
+   "kind": "funding",
+   "url": null
+  },
+  {
+   "date": "2026-09-07",
+   "title": "Storefold appoints CMO",
+   "kind": "exec",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 27,
+  "keywords": 11467,
+  "backlinks": 29162
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

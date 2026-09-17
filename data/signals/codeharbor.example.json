@@ -1,0 +1,105 @@
+{
+ "name": "Codeharbor",
+ "domain": "codeharbor.example",
+ "sector": "Devtools",
+ "city": "Singapore",
+ "lat": 1.223488946078194,
+ "lng": 103.73310711127996,
+ "headcount": 7,
+ "founded": 2022,
+ "description": "Codeharbor builds devtools software for mid-market teams.",
+ "traffic": [],
+ "jobs": [],
+ "funding": [],
+ "people": [
+  {
+   "name": "Yuki Tanaka",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2022-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Amplitude",
+   "first_seen": null
+  },
+  {
+   "name": "Intercom",
+   "first_seen": null
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  },
+  {
+   "name": "Datadog",
+   "first_seen": null
+  }
+ ],
+ "news": [],
+ "seo": {
+  "domain_rating": 3.346161292639806,
+  "keywords": 22,
+  "backlinks": 13
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

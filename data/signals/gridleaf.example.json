@@ -1,0 +1,344 @@
+{
+ "name": "Gridleaf",
+ "domain": "gridleaf.example",
+ "sector": "Climate",
+ "city": "San Francisco",
+ "lat": 37.57738871644696,
+ "lng": -122.308765678374,
+ "headcount": 192,
+ "founded": 2015,
+ "description": "Gridleaf builds climate software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 11711
+  },
+  {
+   "month": "2025-03",
+   "visits": 12088
+  },
+  {
+   "month": "2025-04",
+   "visits": 12591
+  },
+  {
+   "month": "2025-05",
+   "visits": 12228
+  },
+  {
+   "month": "2025-06",
+   "visits": 12749
+  },
+  {
+   "month": "2025-07",
+   "visits": 13173
+  },
+  {
+   "month": "2025-08",
+   "visits": 13737
+  },
+  {
+   "month": "2025-09",
+   "visits": 13502
+  },
+  {
+   "month": "2025-10",
+   "visits": 13108
+  },
+  {
+   "month": "2025-11",
+   "visits": 13387
+  },
+  {
+   "month": "2025-12",
+   "visits": 12934
+  },
+  {
+   "month": "2026-01",
+   "visits": 12760
+  },
+  {
+   "month": "2026-02",
+   "visits": 13300
+  },
+  {
+   "month": "2026-03",
+   "visits": 13043
+  },
+  {
+   "month": "2026-04",
+   "visits": 12637
+  },
+  {
+   "month": "2026-05",
+   "visits": 12993
+  },
+  {
+   "month": "2026-06",
+   "visits": 13527
+  },
+  {
+   "month": "2026-07",
+   "visits": 13343
+  },
+  {
+   "month": "2026-08",
+   "visits": 13224
+  },
+  {
+   "month": "2026-09",
+   "visits": 12805
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-01-08",
+   "function": "product"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-01-15",
+   "function": "customer"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-02-16",
+   "function": "ops"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-02-14",
+   "function": "product"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-02-20",
+   "function": "product"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-02-26",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-04-25",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-04-09",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-05-29",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-07-29",
+   "function": "customer"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-09-21",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-10-08",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-11-03",
+   "function": "product"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-12-05",
+   "function": "product"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-01-03",
+   "function": "customer"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-12-25",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-02-11",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-03-01",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-02-25",
+   "function": "customer"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-04-09",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-05-13",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-04-21",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-05-14",
+   "function": "customer"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-06-15",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-05-30",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-07-07",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-08-05",
+   "function": "sales"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-08-10",
+   "function": "ops"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2025-10-26",
+   "round": "Seed",
+   "amount_usd": 4000000.0,
+   "investors": [
+    "a16z"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Yuki Tanaka",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2015-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Amplitude",
+   "first_seen": null
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  },
+  {
+   "name": "dbt",
+   "first_seen": null
+  },
+  {
+   "name": "Stripe",
+   "first_seen": null
+  },
+  {
+   "name": "Outreach",
+   "first_seen": null
+  },
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  }
+ ],
+ "news": [],
+ "seo": {
+  "domain_rating": 33,
+  "keywords": 17252,
+  "backlinks": 10322
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

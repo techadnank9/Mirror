@@ -1,0 +1,341 @@
+{
+ "name": "Deployr",
+ "domain": "deployr.example",
+ "sector": "Devtools",
+ "city": "San Francisco",
+ "lat": 37.53555508475495,
+ "lng": -122.53790277030407,
+ "headcount": 164,
+ "founded": 2021,
+ "description": "Deployr builds devtools software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 54351
+  },
+  {
+   "month": "2025-03",
+   "visits": 53010
+  },
+  {
+   "month": "2025-04",
+   "visits": 54449
+  },
+  {
+   "month": "2025-05",
+   "visits": 56069
+  },
+  {
+   "month": "2025-06",
+   "visits": 56952
+  },
+  {
+   "month": "2025-07",
+   "visits": 57096
+  },
+  {
+   "month": "2025-08",
+   "visits": 57665
+  },
+  {
+   "month": "2025-09",
+   "visits": 56689
+  },
+  {
+   "month": "2025-10",
+   "visits": 59077
+  },
+  {
+   "month": "2025-11",
+   "visits": 58678
+  },
+  {
+   "month": "2025-12",
+   "visits": 59623
+  },
+  {
+   "month": "2026-01",
+   "visits": 61441
+  },
+  {
+   "month": "2026-02",
+   "visits": 63303
+  },
+  {
+   "month": "2026-03",
+   "visits": 63457
+  },
+  {
+   "month": "2026-04",
+   "visits": 62731
+  },
+  {
+   "month": "2026-05",
+   "visits": 63287
+  },
+  {
+   "month": "2026-06",
+   "visits": 61705
+  },
+  {
+   "month": "2026-07",
+   "visits": 63661
+  },
+  {
+   "month": "2026-08",
+   "visits": 63240
+  },
+  {
+   "month": "2026-09",
+   "visits": 65330
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-01-03",
+   "function": "engineering"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-01-17",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-01-30",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-03-19",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-04-05",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-04-27",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-04-26",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-05-27",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-06-08",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-07-06",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-08-03",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-09-03",
+   "function": "engineering"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-10-28",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-11-26",
+   "function": "product"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-12-23",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-12-23",
+   "function": "ops"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-02-17",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-01-22",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-03-18",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-03-14",
+   "function": "product"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-03-06",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-05-05",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-05-15",
+   "function": "product"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-06-01",
+   "function": "ops"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-06-10",
+   "function": "ops"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-07-06",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-07-17",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-08-18",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-08-25",
+   "function": "ops"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2025-10-28",
+   "round": "Seed",
+   "amount_usd": 6000000.0,
+   "investors": [
+    "Index Ventures"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Omar Haddad",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2021-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "HubSpot",
+   "first_seen": null
+  },
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  },
+  {
+   "name": "Stripe",
+   "first_seen": null
+  },
+  {
+   "name": "Segment",
+   "first_seen": null
+  }
+ ],
+ "news": [],
+ "seo": {
+  "domain_rating": 46,
+  "keywords": 17520,
+  "backlinks": 36815
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

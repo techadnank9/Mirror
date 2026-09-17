@@ -1,0 +1,382 @@
+{
+ "name": "Trolleyo",
+ "domain": "trolleyo.example",
+ "sector": "Retail",
+ "city": "Austin",
+ "lat": 30.311021266735576,
+ "lng": -97.76308103178052,
+ "headcount": 131,
+ "founded": 2020,
+ "description": "Trolleyo builds retail software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 46463
+  },
+  {
+   "month": "2025-03",
+   "visits": 45752
+  },
+  {
+   "month": "2025-04",
+   "visits": 45445
+  },
+  {
+   "month": "2025-05",
+   "visits": 45954
+  },
+  {
+   "month": "2025-06",
+   "visits": 47315
+  },
+  {
+   "month": "2025-07",
+   "visits": 46280
+  },
+  {
+   "month": "2025-08",
+   "visits": 47831
+  },
+  {
+   "month": "2025-09",
+   "visits": 48706
+  },
+  {
+   "month": "2025-10",
+   "visits": 47470
+  },
+  {
+   "month": "2025-11",
+   "visits": 47439
+  },
+  {
+   "month": "2025-12",
+   "visits": 49591
+  },
+  {
+   "month": "2026-01",
+   "visits": 51029
+  },
+  {
+   "month": "2026-02",
+   "visits": 50142
+  },
+  {
+   "month": "2026-03",
+   "visits": 51193
+  },
+  {
+   "month": "2026-04",
+   "visits": 49973
+  },
+  {
+   "month": "2026-05",
+   "visits": 50140
+  },
+  {
+   "month": "2026-06",
+   "visits": 49948
+  },
+  {
+   "month": "2026-07",
+   "visits": 52412
+  },
+  {
+   "month": "2026-08",
+   "visits": 53002
+  },
+  {
+   "month": "2026-09",
+   "visits": 55535
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-01-08",
+   "function": "product"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-01-29",
+   "function": "product"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-03-26",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-04-19",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-03-29",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-05-11",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-06-10",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-07-20",
+   "function": "product"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-08-07",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-09-20",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-09-29",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-10-14",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-12-16",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-12-28",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-02-13",
+   "function": "ops"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-04-19",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-04-06",
+   "function": "sales"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-04-22",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-06-13",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-05-26",
+   "function": "product"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-07-12",
+   "function": "marketing"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-07-08",
+   "function": "product"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-08-04",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-08-12",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-08-02",
+   "function": "sales"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-08-05",
+   "function": "marketing"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-08-24",
+   "function": "product"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-09-09",
+   "function": "product"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-09-11",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-09-01",
+   "function": "customer"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2024-07-04",
+   "round": "Seed",
+   "amount_usd": 3000000.0,
+   "investors": [
+    "Northwind Capital"
+   ]
+  },
+  {
+   "date": "2025-12-05",
+   "round": "Series A",
+   "amount_usd": 12000000.0,
+   "investors": [
+    "a16z"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Elena Voss",
+   "title": "VP Marketing",
+   "function": "marketing",
+   "start_date": "2026-08-16",
+   "end_date": null
+  },
+  {
+   "name": "Yuki Tanaka",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2020-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Gong",
+   "first_seen": "2026-08-30"
+  },
+  {
+   "name": "Vercel",
+   "first_seen": null
+  },
+  {
+   "name": "Stripe",
+   "first_seen": null
+  },
+  {
+   "name": "Segment",
+   "first_seen": null
+  },
+  {
+   "name": "Intercom",
+   "first_seen": null
+  },
+  {
+   "name": "HubSpot",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2025-12-05",
+   "title": "Trolleyo raises $12M Series A led by a16z",
+   "kind": "funding",
+   "url": null
+  },
+  {
+   "date": "2026-08-16",
+   "title": "Trolleyo appoints VP Marketing",
+   "kind": "exec",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 40,
+  "keywords": 13461,
+  "backlinks": 28848
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

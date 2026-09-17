@@ -1,0 +1,474 @@
+{
+ "name": "Agentic Labs",
+ "domain": "agenticlabs.example",
+ "sector": "AI infra",
+ "city": "Singapore",
+ "lat": 1.2190971221925246,
+ "lng": 103.98296874737,
+ "headcount": 100,
+ "founded": 2015,
+ "description": "Agentic Labs builds ai infra software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 73773
+  },
+  {
+   "month": "2025-03",
+   "visits": 78228
+  },
+  {
+   "month": "2025-04",
+   "visits": 78459
+  },
+  {
+   "month": "2025-05",
+   "visits": 78135
+  },
+  {
+   "month": "2025-06",
+   "visits": 82060
+  },
+  {
+   "month": "2025-07",
+   "visits": 73633
+  },
+  {
+   "month": "2025-08",
+   "visits": 69467
+  },
+  {
+   "month": "2025-09",
+   "visits": 62289
+  },
+  {
+   "month": "2025-10",
+   "visits": 56668
+  },
+  {
+   "month": "2025-11",
+   "visits": 53443
+  },
+  {
+   "month": "2025-12",
+   "visits": 51299
+  },
+  {
+   "month": "2026-01",
+   "visits": 47335
+  },
+  {
+   "month": "2026-02",
+   "visits": 43831
+  },
+  {
+   "month": "2026-03",
+   "visits": 39118
+  },
+  {
+   "month": "2026-04",
+   "visits": 35881
+  },
+  {
+   "month": "2026-05",
+   "visits": 32629
+  },
+  {
+   "month": "2026-06",
+   "visits": 31099
+  },
+  {
+   "month": "2026-07",
+   "visits": 29455
+  },
+  {
+   "month": "2026-08",
+   "visits": 28063
+  },
+  {
+   "month": "2026-09",
+   "visits": 26170
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-01-23",
+   "function": "product"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-01-16",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-01-22",
+   "function": "ops"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-02-14",
+   "function": "product"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-02-18",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-02-12",
+   "function": "engineering"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-03-12",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-03-11",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-03-23",
+   "function": "product"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-03-04",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-04-12",
+   "function": "customer"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-04-10",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-04-13",
+   "function": "engineering"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-04-26",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-05-21",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-06-08",
+   "function": "product"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-06-14",
+   "function": "engineering"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-06-15",
+   "function": "product"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-06-25",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-07-08",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-07-02",
+   "function": "product"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-07-27",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-07-26",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-07-30",
+   "function": "product"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-08-31",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-09-02",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-09-10",
+   "function": "engineering"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-10-11",
+   "function": "product"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-10-09",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-10-19",
+   "function": "product"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-10-13",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-10-31",
+   "function": "product"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-11-08",
+   "function": "customer"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-11-01",
+   "function": "marketing"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-12-13",
+   "function": "engineering"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-12-06",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-12-06",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-01-09",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-12-23",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-01-05",
+   "function": "marketing"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-01-22",
+   "function": "product"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2026-02-17",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-02-27",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-03-17",
+   "function": "product"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-03-19",
+   "function": "engineering"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-04-10",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-04-17",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-04-05",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-04-27",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-05-06",
+   "function": "engineering"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-05-15",
+   "function": "engineering"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-06-14",
+   "function": "marketing"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2023-10-17",
+   "round": "Series A",
+   "amount_usd": 15000000.0,
+   "investors": [
+    "Founders Fund"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Priya Raman",
+   "title": "VP Sales",
+   "function": "sales",
+   "start_date": "2024-03-31",
+   "end_date": "2026-08-04"
+  },
+  {
+   "name": "Yuki Tanaka",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2015-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Amplitude",
+   "first_seen": null
+  },
+  {
+   "name": "dbt",
+   "first_seen": null
+  },
+  {
+   "name": "Gong",
+   "first_seen": null
+  },
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-21",
+   "title": "Agentic Labs lays off 30% of staff in restructuring",
+   "kind": "layoff",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 49,
+  "keywords": 611,
+  "backlinks": 29639
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

@@ -1,0 +1,500 @@
+{
+ "name": "Datarift",
+ "domain": "datarift.example",
+ "sector": "AI infra",
+ "city": "Toronto",
+ "lat": 43.527769652106905,
+ "lng": -79.45083380322922,
+ "headcount": 212,
+ "founded": 2015,
+ "description": "Datarift builds ai infra software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 25710
+  },
+  {
+   "month": "2025-03",
+   "visits": 26832
+  },
+  {
+   "month": "2025-04",
+   "visits": 27180
+  },
+  {
+   "month": "2025-05",
+   "visits": 28627
+  },
+  {
+   "month": "2025-06",
+   "visits": 29041
+  },
+  {
+   "month": "2025-07",
+   "visits": 27115
+  },
+  {
+   "month": "2025-08",
+   "visits": 25885
+  },
+  {
+   "month": "2025-09",
+   "visits": 23277
+  },
+  {
+   "month": "2025-10",
+   "visits": 22078
+  },
+  {
+   "month": "2025-11",
+   "visits": 19770
+  },
+  {
+   "month": "2025-12",
+   "visits": 19076
+  },
+  {
+   "month": "2026-01",
+   "visits": 17016
+  },
+  {
+   "month": "2026-02",
+   "visits": 16130
+  },
+  {
+   "month": "2026-03",
+   "visits": 14831
+  },
+  {
+   "month": "2026-04",
+   "visits": 13413
+  },
+  {
+   "month": "2026-05",
+   "visits": 12361
+  },
+  {
+   "month": "2026-06",
+   "visits": 11497
+  },
+  {
+   "month": "2026-07",
+   "visits": 10614
+  },
+  {
+   "month": "2026-08",
+   "visits": 9551
+  },
+  {
+   "month": "2026-09",
+   "visits": 8900
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-01-10",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-02-12",
+   "function": "marketing"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-02-09",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-02-08",
+   "function": "product"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-03-08",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-03-12",
+   "function": "ops"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-03-22",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-03-02",
+   "function": "product"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-04-12",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-03-28",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-04-08",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-05-23",
+   "function": "product"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-05-11",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-05-11",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-04-26",
+   "function": "sales"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-05-30",
+   "function": "sales"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-06-20",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-06-24",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-07-08",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-07-22",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-07-18",
+   "function": "customer"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-07-15",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-07-28",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-07-31",
+   "function": "customer"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-08-02",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-09-03",
+   "function": "engineering"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-09-19",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-09-04",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-08-27",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-10-09",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-10-08",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-10-05",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-11-01",
+   "function": "ops"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-10-27",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-11-14",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-12-12",
+   "function": "customer"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-12-14",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-12-13",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-12-07",
+   "function": "product"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-12-26",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-01-03",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2026-01-20",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-12-24",
+   "function": "engineering"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-02-07",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-01-28",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-01-29",
+   "function": "engineering"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-03-06",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-02-21",
+   "function": "sales"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-03-09",
+   "function": "product"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-03-10",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-04-08",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-04-16",
+   "function": "product"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2026-04-06",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-05-13",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-05-03",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-04-22",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-06-10",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-05-23",
+   "function": "marketing"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2024-07-22",
+   "round": "Series A",
+   "amount_usd": 10000000.0,
+   "investors": [
+    "Sequoia"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Marcus Lee",
+   "title": "Chief Revenue Officer",
+   "function": "sales",
+   "start_date": "2024-03-31",
+   "end_date": "2026-06-21"
+  },
+  {
+   "name": "Ben Carter",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2015-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Vercel",
+   "first_seen": null
+  },
+  {
+   "name": "Gong",
+   "first_seen": null
+  },
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  },
+  {
+   "name": "Datadog",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-07-02",
+   "title": "Datarift lays off 18% of staff in restructuring",
+   "kind": "layoff",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 32,
+  "keywords": 696,
+  "backlinks": 29043
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

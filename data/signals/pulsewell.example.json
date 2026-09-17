@@ -1,0 +1,513 @@
+{
+ "name": "Pulsewell",
+ "domain": "pulsewell.example",
+ "sector": "Health",
+ "city": "London",
+ "lat": 51.74106247022932,
+ "lng": -0.41329499282787663,
+ "headcount": 233,
+ "founded": 2015,
+ "description": "Pulsewell builds health software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 63663
+  },
+  {
+   "month": "2025-03",
+   "visits": 65976
+  },
+  {
+   "month": "2025-04",
+   "visits": 68245
+  },
+  {
+   "month": "2025-05",
+   "visits": 72712
+  },
+  {
+   "month": "2025-06",
+   "visits": 74079
+  },
+  {
+   "month": "2025-07",
+   "visits": 67354
+  },
+  {
+   "month": "2025-08",
+   "visits": 62323
+  },
+  {
+   "month": "2025-09",
+   "visits": 56769
+  },
+  {
+   "month": "2025-10",
+   "visits": 51557
+  },
+  {
+   "month": "2025-11",
+   "visits": 49880
+  },
+  {
+   "month": "2025-12",
+   "visits": 45203
+  },
+  {
+   "month": "2026-01",
+   "visits": 42942
+  },
+  {
+   "month": "2026-02",
+   "visits": 38978
+  },
+  {
+   "month": "2026-03",
+   "visits": 37302
+  },
+  {
+   "month": "2026-04",
+   "visits": 35137
+  },
+  {
+   "month": "2026-05",
+   "visits": 31799
+  },
+  {
+   "month": "2026-06",
+   "visits": 30007
+  },
+  {
+   "month": "2026-07",
+   "visits": 28408
+  },
+  {
+   "month": "2026-08",
+   "visits": 25799
+  },
+  {
+   "month": "2026-09",
+   "visits": 23907
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-01-07",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-01-09",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-01-04",
+   "function": "product"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-02-07",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-02-01",
+   "function": "ops"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-01-29",
+   "function": "product"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-02-19",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-03-11",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-03-15",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-03-19",
+   "function": "product"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-04-19",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-04-22",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-03-27",
+   "function": "product"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-04-28",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-05-22",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-05-14",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-05-04",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-06-08",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-06-09",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-06-13",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-06-07",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-07-21",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-07-17",
+   "function": "ops"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-07-18",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-08-20",
+   "function": "product"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-08-20",
+   "function": "product"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-08-18",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-07-25",
+   "function": "customer"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-08-02",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-08-05",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-08-31",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-09-22",
+   "function": "product"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-09-18",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-09-07",
+   "function": "customer"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-10-03",
+   "function": "marketing"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-10-17",
+   "function": "product"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-10-15",
+   "function": "product"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-10-12",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-10-24",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-11-02",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-11-16",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-12-09",
+   "function": "product"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-12-21",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-12-06",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-01-20",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-12-23",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-01-16",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-02-11",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-02-01",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-02-18",
+   "function": "ops"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-02-25",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-03-03",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-02-24",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-02-22",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-03-28",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-03-24",
+   "function": "customer"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-03-24",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-05-19",
+   "function": "engineering"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-05-10",
+   "function": "ops"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2024-06-19",
+   "round": "Series A",
+   "amount_usd": 15000000.0,
+   "investors": [
+    "Sequoia"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Dana Whitfield",
+   "title": "Head of Sales",
+   "function": "sales",
+   "start_date": "2024-03-31",
+   "end_date": "2026-07-18"
+  },
+  {
+   "name": "Omar Haddad",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2015-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Stripe",
+   "first_seen": null
+  },
+  {
+   "name": "Outreach",
+   "first_seen": null
+  },
+  {
+   "name": "dbt",
+   "first_seen": null
+  },
+  {
+   "name": "Segment",
+   "first_seen": null
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  },
+  {
+   "name": "Intercom",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-21",
+   "title": "Pulsewell lays off 18% of staff in restructuring",
+   "kind": "layoff",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 52,
+  "keywords": 11456,
+  "backlinks": 5316
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

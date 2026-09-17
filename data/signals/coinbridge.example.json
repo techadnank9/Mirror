@@ -1,0 +1,359 @@
+{
+ "name": "Coinbridge",
+ "domain": "coinbridge.example",
+ "sector": "Fintech",
+ "city": "Toronto",
+ "lat": 43.647417367860044,
+ "lng": -79.55975171814092,
+ "headcount": 89,
+ "founded": 2018,
+ "description": "Coinbridge builds fintech software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 5230
+  },
+  {
+   "month": "2025-03",
+   "visits": 5308
+  },
+  {
+   "month": "2025-04",
+   "visits": 5381
+  },
+  {
+   "month": "2025-05",
+   "visits": 5579
+  },
+  {
+   "month": "2025-06",
+   "visits": 5600
+  },
+  {
+   "month": "2025-07",
+   "visits": 5812
+  },
+  {
+   "month": "2025-08",
+   "visits": 5635
+  },
+  {
+   "month": "2025-09",
+   "visits": 5706
+  },
+  {
+   "month": "2025-10",
+   "visits": 5927
+  },
+  {
+   "month": "2025-11",
+   "visits": 5745
+  },
+  {
+   "month": "2025-12",
+   "visits": 5555
+  },
+  {
+   "month": "2026-01",
+   "visits": 5626
+  },
+  {
+   "month": "2026-02",
+   "visits": 5616
+  },
+  {
+   "month": "2026-03",
+   "visits": 5738
+  },
+  {
+   "month": "2026-04",
+   "visits": 5622
+  },
+  {
+   "month": "2026-05",
+   "visits": 5627
+  },
+  {
+   "month": "2026-06",
+   "visits": 5751
+  },
+  {
+   "month": "2026-07",
+   "visits": 5694
+  },
+  {
+   "month": "2026-08",
+   "visits": 5546
+  },
+  {
+   "month": "2026-09",
+   "visits": 5387
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Ops Manager",
+   "date": "2024-12-27",
+   "function": "ops"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-01-16",
+   "function": "sales"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-02-14",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-02-21",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-02-26",
+   "function": "product"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-03-02",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-04-14",
+   "function": "product"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-04-23",
+   "function": "product"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-04-26",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-06-14",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-07-11",
+   "function": "ops"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-07-30",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-08-28",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-09-16",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-10-12",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-10-12",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-10-23",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-12-21",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-11-25",
+   "function": "sales"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-12-06",
+   "function": "sales"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-12-22",
+   "function": "engineering"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-01-16",
+   "function": "product"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-02-19",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-03-14",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-03-07",
+   "function": "engineering"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-05-14",
+   "function": "customer"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-05-13",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-05-30",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-07-06",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-08-10",
+   "function": "sales"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-08-15",
+   "function": "marketing"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2025-07-30",
+   "round": "Seed",
+   "amount_usd": 2000000.0,
+   "investors": [
+    "Sequoia"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Ben Carter",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2018-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Intercom",
+   "first_seen": null
+  },
+  {
+   "name": "Outreach",
+   "first_seen": null
+  },
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  },
+  {
+   "name": "Gong",
+   "first_seen": null
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  },
+  {
+   "name": "Stripe",
+   "first_seen": null
+  }
+ ],
+ "news": [],
+ "seo": {
+  "domain_rating": 29,
+  "keywords": 8830,
+  "backlinks": 13554
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

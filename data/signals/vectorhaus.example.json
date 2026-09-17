@@ -1,0 +1,609 @@
+{
+ "name": "Vectorhaus",
+ "domain": "vectorhaus.example",
+ "sector": "AI infra",
+ "city": "San Francisco",
+ "lat": 37.765896532833096,
+ "lng": -122.5592926503872,
+ "headcount": 268,
+ "founded": 2023,
+ "description": "Vectorhaus builds ai infra software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 78902
+  },
+  {
+   "month": "2025-03",
+   "visits": 82643
+  },
+  {
+   "month": "2025-04",
+   "visits": 84927
+  },
+  {
+   "month": "2025-05",
+   "visits": 89205
+  },
+  {
+   "month": "2025-06",
+   "visits": 91790
+  },
+  {
+   "month": "2025-07",
+   "visits": 100747
+  },
+  {
+   "month": "2025-08",
+   "visits": 106781
+  },
+  {
+   "month": "2025-09",
+   "visits": 111331
+  },
+  {
+   "month": "2025-10",
+   "visits": 116499
+  },
+  {
+   "month": "2025-11",
+   "visits": 124214
+  },
+  {
+   "month": "2025-12",
+   "visits": 128469
+  },
+  {
+   "month": "2026-01",
+   "visits": 138957
+  },
+  {
+   "month": "2026-02",
+   "visits": 145269
+  },
+  {
+   "month": "2026-03",
+   "visits": 153501
+  },
+  {
+   "month": "2026-04",
+   "visits": 168320
+  },
+  {
+   "month": "2026-05",
+   "visits": 177817
+  },
+  {
+   "month": "2026-06",
+   "visits": 186629
+  },
+  {
+   "month": "2026-07",
+   "visits": 201977
+  },
+  {
+   "month": "2026-08",
+   "visits": 221175
+  },
+  {
+   "month": "2026-09",
+   "visits": 237905
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-02-07",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-02-18",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-03-04",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-04-25",
+   "function": "product"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-04-23",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-04-09",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-05-04",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-05-19",
+   "function": "sales"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-06-23",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-07-02",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-07-11",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-08-05",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-08-05",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-09-19",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-09-14",
+   "function": "sales"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-09-10",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-09-22",
+   "function": "ops"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-09-26",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-09-26",
+   "function": "sales"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-10-18",
+   "function": "customer"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-11-20",
+   "function": "sales"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-11-04",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-12-10",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-12-17",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-12-13",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-12-16",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-01-15",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2026-01-02",
+   "function": "customer"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-01-05",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-01-03",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-02-18",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-02-15",
+   "function": "product"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-02-12",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-01-26",
+   "function": "marketing"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-02-01",
+   "function": "product"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-03-14",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-03-05",
+   "function": "product"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-03-02",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-03-19",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-03-27",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-04-10",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-03-27",
+   "function": "product"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-04-04",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-03-30",
+   "function": "marketing"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-04-28",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-05-02",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-05-17",
+   "function": "product"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-04-25",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-05-04",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-05-19",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-05-27",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-06-07",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-05-29",
+   "function": "marketing"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-06-11",
+   "function": "product"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-06-12",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-05-28",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-06-07",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-07-10",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-07-12",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-06-28",
+   "function": "ops"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-07-18",
+   "function": "marketing"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-06-27",
+   "function": "product"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-07-15",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-08-17",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-07-20",
+   "function": "engineering"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-08-02",
+   "function": "product"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-08-12",
+   "function": "engineering"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-07-20",
+   "function": "ops"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-07-24",
+   "function": "customer"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-08-16",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-09-13",
+   "function": "product"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-09-12",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-08-23",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-08-23",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-09-16",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-08-25",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-09-12",
+   "function": "engineering"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2024-09-27",
+   "round": "Seed",
+   "amount_usd": 3000000.0,
+   "investors": [
+    "Index Ventures"
+   ]
+  },
+  {
+   "date": "2026-01-22",
+   "round": "Series A",
+   "amount_usd": 20000000.0,
+   "investors": [
+    "Index Ventures"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Sam Idris",
+   "title": "VP Engineering",
+   "function": "engineering",
+   "start_date": "2026-04-24",
+   "end_date": null
+  },
+  {
+   "name": "Ben Carter",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2023-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Amplitude",
+   "first_seen": null
+  },
+  {
+   "name": "dbt",
+   "first_seen": null
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  },
+  {
+   "name": "Outreach",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-22",
+   "title": "Vectorhaus raises $20M Series A led by Index Ventures",
+   "kind": "funding",
+   "url": null
+  },
+  {
+   "date": "2026-06-20",
+   "title": "Vectorhaus launches Connect for enterprise teams",
+   "kind": "launch",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 69,
+  "keywords": 11887,
+  "backlinks": 6018
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

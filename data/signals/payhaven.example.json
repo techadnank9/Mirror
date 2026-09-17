@@ -1,0 +1,105 @@
+{
+ "name": "Payhaven",
+ "domain": "payhaven.example",
+ "sector": "Fintech",
+ "city": "Berlin",
+ "lat": 52.24531933682678,
+ "lng": 13.168647163991842,
+ "headcount": 4,
+ "founded": 2021,
+ "description": "Payhaven builds fintech software for mid-market teams.",
+ "traffic": [],
+ "jobs": [],
+ "funding": [],
+ "people": [
+  {
+   "name": "Yuki Tanaka",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2021-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Vercel",
+   "first_seen": null
+  },
+  {
+   "name": "dbt",
+   "first_seen": null
+  },
+  {
+   "name": "Intercom",
+   "first_seen": null
+  },
+  {
+   "name": "Gong",
+   "first_seen": null
+  }
+ ],
+ "news": [],
+ "seo": {
+  "domain_rating": 5.732998063054197,
+  "keywords": 33,
+  "backlinks": 37
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

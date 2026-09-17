@@ -1,0 +1,392 @@
+{
+ "name": "Fundwise",
+ "domain": "fundwise.example",
+ "sector": "Fintech",
+ "city": "London",
+ "lat": 51.4058027514732,
+ "lng": -0.19235824263846696,
+ "headcount": 69,
+ "founded": 2015,
+ "description": "Fundwise builds fintech software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 46140
+  },
+  {
+   "month": "2025-03",
+   "visits": 48414
+  },
+  {
+   "month": "2025-04",
+   "visits": 47358
+  },
+  {
+   "month": "2025-05",
+   "visits": 47736
+  },
+  {
+   "month": "2025-06",
+   "visits": 49432
+  },
+  {
+   "month": "2025-07",
+   "visits": 51273
+  },
+  {
+   "month": "2025-08",
+   "visits": 53485
+  },
+  {
+   "month": "2025-09",
+   "visits": 52053
+  },
+  {
+   "month": "2025-10",
+   "visits": 51714
+  },
+  {
+   "month": "2025-11",
+   "visits": 50656
+  },
+  {
+   "month": "2025-12",
+   "visits": 49905
+  },
+  {
+   "month": "2026-01",
+   "visits": 52292
+  },
+  {
+   "month": "2026-02",
+   "visits": 53163
+  },
+  {
+   "month": "2026-03",
+   "visits": 55524
+  },
+  {
+   "month": "2026-04",
+   "visits": 55512
+  },
+  {
+   "month": "2026-05",
+   "visits": 57693
+  },
+  {
+   "month": "2026-06",
+   "visits": 58035
+  },
+  {
+   "month": "2026-07",
+   "visits": 57501
+  },
+  {
+   "month": "2026-08",
+   "visits": 59354
+  },
+  {
+   "month": "2026-09",
+   "visits": 62064
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-01-05",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-02-23",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-03-25",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-02-28",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-04-16",
+   "function": "customer"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-05-24",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-05-10",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-07-07",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-07-07",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-08-10",
+   "function": "engineering"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-09-13",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-09-24",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-10-09",
+   "function": "product"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-11-01",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-12-08",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-01-17",
+   "function": "product"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-01-02",
+   "function": "product"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-02-18",
+   "function": "sales"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-02-24",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-03-28",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-04-09",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-05-04",
+   "function": "marketing"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-05-17",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-07-10",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-08-08",
+   "function": "product"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-07-20",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-07-21",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-07-24",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-09-05",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-09-12",
+   "function": "product"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-09-05",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-09-06",
+   "function": "product"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2025-01-21",
+   "round": "Seed",
+   "amount_usd": 3000000.0,
+   "investors": [
+    "Northwind Capital"
+   ]
+  },
+  {
+   "date": "2026-06-03",
+   "round": "Series A",
+   "amount_usd": 12000000.0,
+   "investors": [
+    "Lightspeed"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Aisha Okafor",
+   "title": "Head of Sales",
+   "function": "sales",
+   "start_date": "2026-07-19",
+   "end_date": null
+  },
+  {
+   "name": "Omar Haddad",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2015-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "HubSpot",
+   "first_seen": "2026-08-01"
+  },
+  {
+   "name": "Amplitude",
+   "first_seen": null
+  },
+  {
+   "name": "Stripe",
+   "first_seen": null
+  },
+  {
+   "name": "dbt",
+   "first_seen": null
+  },
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  },
+  {
+   "name": "Vercel",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-06-03",
+   "title": "Fundwise raises $12M Series A led by Lightspeed",
+   "kind": "funding",
+   "url": null
+  },
+  {
+   "date": "2026-07-19",
+   "title": "Fundwise appoints Head of Sales",
+   "kind": "exec",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 30,
+  "keywords": 414,
+  "backlinks": 41059
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

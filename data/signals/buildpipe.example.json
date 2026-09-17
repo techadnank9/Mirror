@@ -1,0 +1,504 @@
+{
+ "name": "Buildpipe",
+ "domain": "buildpipe.example",
+ "sector": "Devtools",
+ "city": "London",
+ "lat": 51.69631761285611,
+ "lng": -0.18979459237869353,
+ "headcount": 151,
+ "founded": 2015,
+ "description": "Buildpipe builds devtools software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 64720
+  },
+  {
+   "month": "2025-03",
+   "visits": 66684
+  },
+  {
+   "month": "2025-04",
+   "visits": 69522
+  },
+  {
+   "month": "2025-05",
+   "visits": 69053
+  },
+  {
+   "month": "2025-06",
+   "visits": 69082
+  },
+  {
+   "month": "2025-07",
+   "visits": 66579
+  },
+  {
+   "month": "2025-08",
+   "visits": 60927
+  },
+  {
+   "month": "2025-09",
+   "visits": 57736
+  },
+  {
+   "month": "2025-10",
+   "visits": 51754
+  },
+  {
+   "month": "2025-11",
+   "visits": 49175
+  },
+  {
+   "month": "2025-12",
+   "visits": 47286
+  },
+  {
+   "month": "2026-01",
+   "visits": 44554
+  },
+  {
+   "month": "2026-02",
+   "visits": 42448
+  },
+  {
+   "month": "2026-03",
+   "visits": 37867
+  },
+  {
+   "month": "2026-04",
+   "visits": 33903
+  },
+  {
+   "month": "2026-05",
+   "visits": 31839
+  },
+  {
+   "month": "2026-06",
+   "visits": 30101
+  },
+  {
+   "month": "2026-07",
+   "visits": 27054
+  },
+  {
+   "month": "2026-08",
+   "visits": 24363
+  },
+  {
+   "month": "2026-09",
+   "visits": 23409
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-01-04",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2024-12-30",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-01-01",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-02-14",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-02-20",
+   "function": "product"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-01-26",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-02-06",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-02-08",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-03-14",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-02-25",
+   "function": "ops"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-03-16",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-03-31",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-04-01",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-03-29",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-04-08",
+   "function": "product"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-05-02",
+   "function": "product"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-05-13",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-05-21",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-05-31",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-06-17",
+   "function": "product"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-06-01",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-05-29",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-06-25",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-07-24",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-07-20",
+   "function": "marketing"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-08-03",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-08-07",
+   "function": "product"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-08-19",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-08-04",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-08-22",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-09-11",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-09-04",
+   "function": "product"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-09-18",
+   "function": "customer"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-10-03",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-10-18",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-09-30",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-10-25",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-10-27",
+   "function": "product"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-11-20",
+   "function": "sales"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-12-01",
+   "function": "customer"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-11-22",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-12-16",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-12-20",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-12-22",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-01-01",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-01-07",
+   "function": "marketing"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-01-31",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-02-14",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-02-10",
+   "function": "sales"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-01-25",
+   "function": "ops"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-02-26",
+   "function": "product"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-02-26",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-03-14",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-04-13",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-04-10",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-04-19",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-04-25",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-04-30",
+   "function": "engineering"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2024-09-04",
+   "round": "Series A",
+   "amount_usd": 25000000.0,
+   "investors": [
+    "Northwind Capital"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Dana Whitfield",
+   "title": "Head of Sales",
+   "function": "sales",
+   "start_date": "2024-03-31",
+   "end_date": "2026-07-31"
+  },
+  {
+   "name": "Ben Carter",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2015-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  },
+  {
+   "name": "Stripe",
+   "first_seen": null
+  },
+  {
+   "name": "Datadog",
+   "first_seen": null
+  },
+  {
+   "name": "Vercel",
+   "first_seen": null
+  },
+  {
+   "name": "Amplitude",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-17",
+   "title": "Buildpipe lays off 25% of staff in restructuring",
+   "kind": "layoff",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 51,
+  "keywords": 17875,
+  "backlinks": 31268
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

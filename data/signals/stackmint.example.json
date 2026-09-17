@@ -1,0 +1,577 @@
+{
+ "name": "Stackmint",
+ "domain": "stackmint.example",
+ "sector": "Devtools",
+ "city": "London",
+ "lat": 51.552204285642915,
+ "lng": -0.24534949933349018,
+ "headcount": 188,
+ "founded": 2023,
+ "description": "Stackmint builds devtools software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 113626
+  },
+  {
+   "month": "2025-03",
+   "visits": 117213
+  },
+  {
+   "month": "2025-04",
+   "visits": 119810
+  },
+  {
+   "month": "2025-05",
+   "visits": 123228
+  },
+  {
+   "month": "2025-06",
+   "visits": 134851
+  },
+  {
+   "month": "2025-07",
+   "visits": 141268
+  },
+  {
+   "month": "2025-08",
+   "visits": 145697
+  },
+  {
+   "month": "2025-09",
+   "visits": 148945
+  },
+  {
+   "month": "2025-10",
+   "visits": 152421
+  },
+  {
+   "month": "2025-11",
+   "visits": 163915
+  },
+  {
+   "month": "2025-12",
+   "visits": 175505
+  },
+  {
+   "month": "2026-01",
+   "visits": 188801
+  },
+  {
+   "month": "2026-02",
+   "visits": 203706
+  },
+  {
+   "month": "2026-03",
+   "visits": 208852
+  },
+  {
+   "month": "2026-04",
+   "visits": 222895
+  },
+  {
+   "month": "2026-05",
+   "visits": 233832
+  },
+  {
+   "month": "2026-06",
+   "visits": 253803
+  },
+  {
+   "month": "2026-07",
+   "visits": 275520
+  },
+  {
+   "month": "2026-08",
+   "visits": 300675
+  },
+  {
+   "month": "2026-09",
+   "visits": 308275
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-01-22",
+   "function": "product"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-01-19",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-01-24",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-03-11",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-03-23",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-04-15",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-04-26",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-06-02",
+   "function": "sales"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-05-31",
+   "function": "engineering"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-06-29",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-07-11",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-08-08",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-09-04",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-09-09",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-10-16",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-10-22",
+   "function": "sales"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-10-19",
+   "function": "product"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-11-03",
+   "function": "product"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-11-13",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-10-26",
+   "function": "engineering"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-12-14",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-12-18",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-12-26",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-01-10",
+   "function": "ops"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-02-07",
+   "function": "sales"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-02-17",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-02-19",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-02-10",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-03-09",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-03-17",
+   "function": "product"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-03-03",
+   "function": "engineering"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-03-17",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-04-03",
+   "function": "ops"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-04-06",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-03-27",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-04-13",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-04-06",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-04-24",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-05-16",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-05-10",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-05-13",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-05-12",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-05-29",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-06-07",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-05-25",
+   "function": "marketing"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-06-10",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-06-13",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-05-21",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-07-18",
+   "function": "product"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-06-22",
+   "function": "product"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-07-12",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-07-19",
+   "function": "product"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-06-30",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-06-26",
+   "function": "sales"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-07-27",
+   "function": "product"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-07-28",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-08-13",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-08-05",
+   "function": "product"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-07-29",
+   "function": "engineering"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-08-11",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-07-27",
+   "function": "ops"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-07-22",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-09-01",
+   "function": "product"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-09-07",
+   "function": "ops"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-08-22",
+   "function": "product"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-09-16",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-09-11",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-08-23",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2026-09-06",
+   "function": "customer"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2023-12-21",
+   "round": "Seed",
+   "amount_usd": 3000000.0,
+   "investors": [
+    "Sequoia"
+   ]
+  },
+  {
+   "date": "2025-10-28",
+   "round": "Series B",
+   "amount_usd": 35000000.0,
+   "investors": [
+    "Accel"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Ravi Menon",
+   "title": "Chief Product Officer",
+   "function": "product",
+   "start_date": "2025-12-02",
+   "end_date": null
+  },
+  {
+   "name": "Omar Haddad",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2023-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  },
+  {
+   "name": "Amplitude",
+   "first_seen": null
+  },
+  {
+   "name": "Segment",
+   "first_seen": null
+  },
+  {
+   "name": "Stripe",
+   "first_seen": null
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  },
+  {
+   "name": "Datadog",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2025-10-28",
+   "title": "Stackmint raises $35M Series B led by Accel",
+   "kind": "funding",
+   "url": null
+  },
+  {
+   "date": "2026-06-23",
+   "title": "Stackmint launches Copilot for enterprise teams",
+   "kind": "launch",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 75,
+  "keywords": 13396,
+  "backlinks": 4530
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

@@ -1,0 +1,632 @@
+{
+ "name": "Carbonclear",
+ "domain": "carbonclear.example",
+ "sector": "Climate",
+ "city": "Toronto",
+ "lat": 43.37937783809154,
+ "lng": -79.16242176675824,
+ "headcount": 116,
+ "founded": 2022,
+ "description": "Carbonclear builds climate software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 69581
+  },
+  {
+   "month": "2025-03",
+   "visits": 71886
+  },
+  {
+   "month": "2025-04",
+   "visits": 74594
+  },
+  {
+   "month": "2025-05",
+   "visits": 80385
+  },
+  {
+   "month": "2025-06",
+   "visits": 86807
+  },
+  {
+   "month": "2025-07",
+   "visits": 94112
+  },
+  {
+   "month": "2025-08",
+   "visits": 100018
+  },
+  {
+   "month": "2025-09",
+   "visits": 103291
+  },
+  {
+   "month": "2025-10",
+   "visits": 111782
+  },
+  {
+   "month": "2025-11",
+   "visits": 120414
+  },
+  {
+   "month": "2025-12",
+   "visits": 127795
+  },
+  {
+   "month": "2026-01",
+   "visits": 135112
+  },
+  {
+   "month": "2026-02",
+   "visits": 139993
+  },
+  {
+   "month": "2026-03",
+   "visits": 143818
+  },
+  {
+   "month": "2026-04",
+   "visits": 147274
+  },
+  {
+   "month": "2026-05",
+   "visits": 152856
+  },
+  {
+   "month": "2026-06",
+   "visits": 166106
+  },
+  {
+   "month": "2026-07",
+   "visits": 178812
+  },
+  {
+   "month": "2026-08",
+   "visits": 188717
+  },
+  {
+   "month": "2026-09",
+   "visits": 198902
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Lead Sales Manager",
+   "date": "2024-12-27",
+   "function": "sales"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-01-20",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-01-30",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-03-09",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-02-25",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-03-31",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-05-24",
+   "function": "product"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-05-21",
+   "function": "product"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-05-05",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-06-11",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-06-12",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-06-28",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-07-03",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-08-21",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-08-12",
+   "function": "product"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-07-26",
+   "function": "product"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-08-08",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-09-03",
+   "function": "engineering"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-09-18",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-10-04",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-10-04",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-10-11",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-10-31",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-11-16",
+   "function": "sales"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-11-07",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-11-11",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-11-18",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-12-18",
+   "function": "product"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-12-02",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-12-20",
+   "function": "product"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-12-05",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-12-31",
+   "function": "product"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-01-02",
+   "function": "product"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-01-09",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-02-09",
+   "function": "sales"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-01-23",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-02-15",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-02-16",
+   "function": "sales"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-03-17",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-03-04",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-03-07",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-03-03",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-03-13",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-04-14",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-03-28",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-04-20",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-04-05",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-03-28",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-03-27",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-04-24",
+   "function": "marketing"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-05-07",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2026-05-04",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-05-02",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-04-29",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2026-05-28",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-06-17",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-06-18",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-05-26",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-06-09",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-06-01",
+   "function": "product"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-07-09",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-07-18",
+   "function": "product"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-07-15",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-06-24",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-07-13",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-06-28",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-07-17",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-08-02",
+   "function": "product"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-07-25",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-07-22",
+   "function": "marketing"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-07-24",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-07-29",
+   "function": "sales"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-08-13",
+   "function": "customer"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-07-25",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-09-09",
+   "function": "marketing"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-08-25",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-08-30",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-09-05",
+   "function": "product"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-08-30",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-08-23",
+   "function": "sales"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2024-12-07",
+   "round": "Seed",
+   "amount_usd": 3000000.0,
+   "investors": [
+    "Lightspeed"
+   ]
+  },
+  {
+   "date": "2026-04-22",
+   "round": "Series A",
+   "amount_usd": 12000000.0,
+   "investors": [
+    "Index Ventures"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Sam Idris",
+   "title": "Chief Revenue Officer",
+   "function": "sales",
+   "start_date": "2025-08-19",
+   "end_date": null
+  },
+  {
+   "name": "Omar Haddad",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2022-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Amplitude",
+   "first_seen": null
+  },
+  {
+   "name": "Vercel",
+   "first_seen": null
+  },
+  {
+   "name": "Datadog",
+   "first_seen": null
+  },
+  {
+   "name": "Stripe",
+   "first_seen": null
+  },
+  {
+   "name": "Gong",
+   "first_seen": null
+  },
+  {
+   "name": "HubSpot",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-04-22",
+   "title": "Carbonclear raises $12M Series A led by Index Ventures",
+   "kind": "funding",
+   "url": null
+  },
+  {
+   "date": "2026-06-02",
+   "title": "Carbonclear launches Workflows for enterprise teams",
+   "kind": "launch",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 52,
+  "keywords": 14278,
+  "backlinks": 20472
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

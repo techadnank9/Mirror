@@ -1,0 +1,371 @@
+{
+ "name": "Shelfio",
+ "domain": "shelfio.example",
+ "sector": "Retail",
+ "city": "San Francisco",
+ "lat": 37.8475447805106,
+ "lng": -122.63674299636392,
+ "headcount": 158,
+ "founded": 2022,
+ "description": "Shelfio builds retail software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 9083
+  },
+  {
+   "month": "2025-03",
+   "visits": 8789
+  },
+  {
+   "month": "2025-04",
+   "visits": 8860
+  },
+  {
+   "month": "2025-05",
+   "visits": 8881
+  },
+  {
+   "month": "2025-06",
+   "visits": 8914
+  },
+  {
+   "month": "2025-07",
+   "visits": 8811
+  },
+  {
+   "month": "2025-08",
+   "visits": 9163
+  },
+  {
+   "month": "2025-09",
+   "visits": 9550
+  },
+  {
+   "month": "2025-10",
+   "visits": 9621
+  },
+  {
+   "month": "2025-11",
+   "visits": 9461
+  },
+  {
+   "month": "2025-12",
+   "visits": 9551
+  },
+  {
+   "month": "2026-01",
+   "visits": 9844
+  },
+  {
+   "month": "2026-02",
+   "visits": 9721
+  },
+  {
+   "month": "2026-03",
+   "visits": 10139
+  },
+  {
+   "month": "2026-04",
+   "visits": 10252
+  },
+  {
+   "month": "2026-05",
+   "visits": 10478
+  },
+  {
+   "month": "2026-06",
+   "visits": 10298
+  },
+  {
+   "month": "2026-07",
+   "visits": 10080
+  },
+  {
+   "month": "2026-08",
+   "visits": 10381
+  },
+  {
+   "month": "2026-09",
+   "visits": 10241
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-02-01",
+   "function": "engineering"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-02-21",
+   "function": "customer"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-02-08",
+   "function": "product"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-03-01",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-03-16",
+   "function": "customer"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-04-05",
+   "function": "sales"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-04-21",
+   "function": "customer"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-04-04",
+   "function": "product"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-05-13",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-05-01",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-06-01",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-05-31",
+   "function": "product"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-07-18",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-06-29",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-09-22",
+   "function": "ops"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-09-16",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-09-26",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-11-01",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-12-12",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-01-07",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-01-06",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-02-16",
+   "function": "engineering"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-01-26",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-02-24",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-03-23",
+   "function": "product"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-04-04",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-04-29",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-05-28",
+   "function": "marketing"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-06-25",
+   "function": "product"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-06-24",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-07-15",
+   "function": "marketing"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-08-12",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-09-03",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-08-20",
+   "function": "marketing"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-09-07",
+   "function": "engineering"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2025-07-20",
+   "round": "Seed",
+   "amount_usd": 6000000.0,
+   "investors": [
+    "Sequoia"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Ana Ruiz",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2022-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  },
+  {
+   "name": "Datadog",
+   "first_seen": null
+  },
+  {
+   "name": "Stripe",
+   "first_seen": null
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  }
+ ],
+ "news": [],
+ "seo": {
+  "domain_rating": 46,
+  "keywords": 19045,
+  "backlinks": 38873
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mirror Weather</title>
+<meta name="description" content="Every company on the map is a weather system. Traffic is temperature, hiring is pressure, funding is rain, leadership change is wind.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><span class="logo">◐</span><span>MIRROR</span><span class="sub">company weather</span></div>
+  <form class="search" id="searchForm" autocomplete="off">
+    <input id="search" type="search" placeholder="Type a company or domain…" aria-label="Search companies">
+    <button type="submit" id="addBtn" title="Add this company live from Glasser">Add live</button>
+  </form>
+  <div class="legend" id="legend" role="group" aria-label="Filter by condition"></div>
+  <div class="meter" id="meter" title="Glasser credits spent building this map"></div>
+  <button class="ghost" id="exportBtn">Export briefing</button>
+</header>
+
+<main class="stage">
+  <section class="map" id="mapWrap">
+    <svg id="radar" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Weather radar of companies"></svg>
+    <div class="badge" id="badge" hidden>SYNTHETIC DEMO DATA</div>
+    <div class="hint" id="hint">Click a company. Drag the timeline to see the weather change.</div>
+  </section>
+
+  <aside class="panel" id="panel" aria-live="polite">
+    <div class="empty" id="panelEmpty">
+      <h2>Pick a storm.</h2>
+      <p>Sunny companies are growing and funded. Storms are cooling and cutting. A <b>front</b> is a company where one signal just jumped while the rest lags. That is the moment to reach out.</p>
+      <ul class="keys">
+        <li><b>Temperature</b> web traffic momentum</li>
+        <li><b>Pressure</b> hiring momentum</li>
+        <li><b>Precipitation</b> funding recency</li>
+        <li><b>Wind</b> leadership and stack change</li>
+        <li><b>Visibility</b> search and social footprint</li>
+      </ul>
+    </div>
+    <div id="panelBody" hidden></div>
+  </aside>
+</main>
+
+<footer class="timeline">
+  <button id="play" class="ghost" aria-label="Play timeline">▶</button>
+  <input id="time" type="range" min="0" max="11" value="11" step="1" aria-label="Month">
+  <div class="month" id="monthLabel"></div>
+</footer>
+
+<template id="tplPanel">
+  <div class="head">
+    <div>
+      <h2 class="name"></h2>
+      <div class="meta"><span class="sector"></span> · <span class="city"></span> · <span class="domain"></span></div>
+    </div>
+    <span class="chip cond"></span>
+  </div>
+  <p class="forecast"></p>
+  <div class="gauges"></div>
+  <div class="spark"><svg viewBox="0 0 320 60" preserveAspectRatio="none"></svg><div class="sparkcap">12-month momentum</div></div>
+  <div class="glance"></div>
+  <div class="ascap">The case as of <span class="asof"></span></div>
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-tab="prosecution" class="on">Prosecution</button>
+    <button role="tab" data-tab="defense">Defense</button>
+    <button role="tab" data-tab="sources">Sources</button>
+  </nav>
+  <div class="tabbody" data-body="prosecution"></div>
+  <div class="tabbody" data-body="defense" hidden></div>
+  <div class="tabbody" data-body="sources" hidden></div>
+  <p class="verdict"></p>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>

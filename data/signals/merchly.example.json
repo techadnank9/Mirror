@@ -1,0 +1,617 @@
+{
+ "name": "Merchly",
+ "domain": "merchly.example",
+ "sector": "Retail",
+ "city": "Austin",
+ "lat": 30.1189753421064,
+ "lng": -97.56242060974617,
+ "headcount": 226,
+ "founded": 2017,
+ "description": "Merchly builds retail software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 105900
+  },
+  {
+   "month": "2025-03",
+   "visits": 115530
+  },
+  {
+   "month": "2025-04",
+   "visits": 124889
+  },
+  {
+   "month": "2025-05",
+   "visits": 135911
+  },
+  {
+   "month": "2025-06",
+   "visits": 141248
+  },
+  {
+   "month": "2025-07",
+   "visits": 154162
+  },
+  {
+   "month": "2025-08",
+   "visits": 160488
+  },
+  {
+   "month": "2025-09",
+   "visits": 163795
+  },
+  {
+   "month": "2025-10",
+   "visits": 168376
+  },
+  {
+   "month": "2025-11",
+   "visits": 176827
+  },
+  {
+   "month": "2025-12",
+   "visits": 185588
+  },
+  {
+   "month": "2026-01",
+   "visits": 193485
+  },
+  {
+   "month": "2026-02",
+   "visits": 204669
+  },
+  {
+   "month": "2026-03",
+   "visits": 216744
+  },
+  {
+   "month": "2026-04",
+   "visits": 222984
+  },
+  {
+   "month": "2026-05",
+   "visits": 237349
+  },
+  {
+   "month": "2026-06",
+   "visits": 251441
+  },
+  {
+   "month": "2026-07",
+   "visits": 264611
+  },
+  {
+   "month": "2026-08",
+   "visits": 280169
+  },
+  {
+   "month": "2026-09",
+   "visits": 306462
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-01-22",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-01-17",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-02-09",
+   "function": "product"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-03-10",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-03-03",
+   "function": "product"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-04-06",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-05-24",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-05-20",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-05-22",
+   "function": "marketing"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-06-16",
+   "function": "product"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-05-30",
+   "function": "product"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-05-30",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-07-03",
+   "function": "engineering"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-08-20",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-08-15",
+   "function": "product"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-08-25",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-10-07",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-10-02",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-10-01",
+   "function": "product"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-10-29",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-10-31",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-11-14",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-12-07",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-12-15",
+   "function": "product"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-12-07",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-01-02",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-01-08",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-01-15",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-01-05",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-02-04",
+   "function": "sales"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-01-23",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-02-13",
+   "function": "ops"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-01-24",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-03-13",
+   "function": "product"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-03-20",
+   "function": "engineering"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-03-11",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-02-27",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-03-10",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-02-23",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-04-01",
+   "function": "marketing"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-04-06",
+   "function": "customer"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-04-03",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-04-12",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-04-17",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-04-16",
+   "function": "product"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-04-16",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-04-15",
+   "function": "sales"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-04-25",
+   "function": "product"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-04-22",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-04-27",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-05-07",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-05-07",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-05-22",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-06-10",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-06-06",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-06-07",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-05-30",
+   "function": "ops"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-06-12",
+   "function": "product"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-06-21",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-07-17",
+   "function": "product"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-07-07",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-07-11",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-07-08",
+   "function": "product"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-06-23",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-07-26",
+   "function": "ops"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-07-28",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-07-28",
+   "function": "marketing"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-08-04",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-07-28",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-08-08",
+   "function": "product"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-08-31",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-09-13",
+   "function": "product"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-08-25",
+   "function": "engineering"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-08-27",
+   "function": "product"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-09-13",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-09-11",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-09-16",
+   "function": "sales"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2024-05-18",
+   "round": "Seed",
+   "amount_usd": 3000000.0,
+   "investors": [
+    "Accel"
+   ]
+  },
+  {
+   "date": "2026-01-23",
+   "round": "Series B",
+   "amount_usd": 60000000.0,
+   "investors": [
+    "Northwind Capital"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Ravi Menon",
+   "title": "VP Product",
+   "function": "product",
+   "start_date": "2025-12-21",
+   "end_date": null
+  },
+  {
+   "name": "Yuki Tanaka",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2017-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Datadog",
+   "first_seen": null
+  },
+  {
+   "name": "Segment",
+   "first_seen": null
+  },
+  {
+   "name": "Intercom",
+   "first_seen": null
+  },
+  {
+   "name": "HubSpot",
+   "first_seen": null
+  },
+  {
+   "name": "Amplitude",
+   "first_seen": null
+  },
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-23",
+   "title": "Merchly raises $60M Series B led by Northwind Capital",
+   "kind": "funding",
+   "url": null
+  },
+  {
+   "date": "2026-06-16",
+   "title": "Merchly launches Copilot for enterprise teams",
+   "kind": "launch",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 56,
+  "keywords": 6985,
+  "backlinks": 42088
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

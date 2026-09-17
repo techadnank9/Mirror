@@ -1,0 +1,406 @@
+{
+ "name": "Careloop",
+ "domain": "careloop.example",
+ "sector": "Health",
+ "city": "New York",
+ "lat": 40.4923142504836,
+ "lng": -73.89826081883771,
+ "headcount": 130,
+ "founded": 2014,
+ "description": "Careloop builds health software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 12020
+  },
+  {
+   "month": "2025-03",
+   "visits": 12087
+  },
+  {
+   "month": "2025-04",
+   "visits": 12630
+  },
+  {
+   "month": "2025-05",
+   "visits": 12606
+  },
+  {
+   "month": "2025-06",
+   "visits": 12530
+  },
+  {
+   "month": "2025-07",
+   "visits": 13041
+  },
+  {
+   "month": "2025-08",
+   "visits": 12797
+  },
+  {
+   "month": "2025-09",
+   "visits": 12990
+  },
+  {
+   "month": "2025-10",
+   "visits": 12947
+  },
+  {
+   "month": "2025-11",
+   "visits": 13403
+  },
+  {
+   "month": "2025-12",
+   "visits": 13589
+  },
+  {
+   "month": "2026-01",
+   "visits": 14008
+  },
+  {
+   "month": "2026-02",
+   "visits": 13778
+  },
+  {
+   "month": "2026-03",
+   "visits": 14099
+  },
+  {
+   "month": "2026-04",
+   "visits": 14351
+  },
+  {
+   "month": "2026-05",
+   "visits": 14450
+  },
+  {
+   "month": "2026-06",
+   "visits": 14902
+  },
+  {
+   "month": "2026-07",
+   "visits": 15446
+  },
+  {
+   "month": "2026-08",
+   "visits": 15124
+  },
+  {
+   "month": "2026-09",
+   "visits": 15021
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Staff Sales Manager",
+   "date": "2024-12-28",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-02-18",
+   "function": "engineering"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-02-15",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-03-12",
+   "function": "product"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-03-21",
+   "function": "engineering"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-04-25",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-05-02",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-05-07",
+   "function": "ops"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-06-04",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-07-14",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-06-25",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-08-14",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-09-22",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-09-26",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-11-05",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-11-26",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-12-02",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-02-09",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-02-15",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-03-20",
+   "function": "sales"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-03-26",
+   "function": "customer"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-05-07",
+   "function": "product"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-05-15",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2026-05-02",
+   "function": "customer"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-07-05",
+   "function": "marketing"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-07-18",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-08-12",
+   "function": "product"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-08-07",
+   "function": "ops"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-07-23",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-08-09",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-08-20",
+   "function": "product"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-09-03",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-08-22",
+   "function": "ops"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-09-12",
+   "function": "ops"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2024-07-02",
+   "round": "Seed",
+   "amount_usd": 3000000.0,
+   "investors": [
+    "Founders Fund"
+   ]
+  },
+  {
+   "date": "2026-03-20",
+   "round": "Series A",
+   "amount_usd": 8000000.0,
+   "investors": [
+    "Lightspeed"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Jun Park",
+   "title": "CMO",
+   "function": "marketing",
+   "start_date": "2026-08-29",
+   "end_date": null
+  },
+  {
+   "name": "Yuki Tanaka",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2014-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "HubSpot",
+   "first_seen": "2026-09-16"
+  },
+  {
+   "name": "Stripe",
+   "first_seen": null
+  },
+  {
+   "name": "Gong",
+   "first_seen": null
+  },
+  {
+   "name": "Segment",
+   "first_seen": null
+  },
+  {
+   "name": "Vercel",
+   "first_seen": null
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  },
+  {
+   "name": "Amplitude",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-03-20",
+   "title": "Careloop raises $8M Series A led by Lightspeed",
+   "kind": "funding",
+   "url": null
+  },
+  {
+   "date": "2026-08-29",
+   "title": "Careloop appoints CMO",
+   "kind": "exec",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 45,
+  "keywords": 18814,
+  "backlinks": 37929
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

@@ -1,0 +1,520 @@
+{
+ "name": "Vitalgraph",
+ "domain": "vitalgraph.example",
+ "sector": "Health",
+ "city": "Berlin",
+ "lat": 52.630738762187576,
+ "lng": 13.457305746329524,
+ "headcount": 150,
+ "founded": 2014,
+ "description": "Vitalgraph builds health software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 47832
+  },
+  {
+   "month": "2025-03",
+   "visits": 47735
+  },
+  {
+   "month": "2025-04",
+   "visits": 50709
+  },
+  {
+   "month": "2025-05",
+   "visits": 52564
+  },
+  {
+   "month": "2025-06",
+   "visits": 53505
+  },
+  {
+   "month": "2025-07",
+   "visits": 49545
+  },
+  {
+   "month": "2025-08",
+   "visits": 45624
+  },
+  {
+   "month": "2025-09",
+   "visits": 40805
+  },
+  {
+   "month": "2025-10",
+   "visits": 39223
+  },
+  {
+   "month": "2025-11",
+   "visits": 36737
+  },
+  {
+   "month": "2025-12",
+   "visits": 35516
+  },
+  {
+   "month": "2026-01",
+   "visits": 32859
+  },
+  {
+   "month": "2026-02",
+   "visits": 30874
+  },
+  {
+   "month": "2026-03",
+   "visits": 28094
+  },
+  {
+   "month": "2026-04",
+   "visits": 25103
+  },
+  {
+   "month": "2026-05",
+   "visits": 24211
+  },
+  {
+   "month": "2026-06",
+   "visits": 23203
+  },
+  {
+   "month": "2026-07",
+   "visits": 21235
+  },
+  {
+   "month": "2026-08",
+   "visits": 20426
+  },
+  {
+   "month": "2026-09",
+   "visits": 19512
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-01-23",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-01-13",
+   "function": "ops"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-01-16",
+   "function": "product"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-02-09",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-02-22",
+   "function": "marketing"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-02-13",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-02-24",
+   "function": "marketing"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-03-09",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-03-14",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-03-13",
+   "function": "sales"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-04-18",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-04-11",
+   "function": "marketing"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-04-18",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-04-17",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-05-21",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-05-17",
+   "function": "marketing"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-05-11",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-06-19",
+   "function": "marketing"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-06-18",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-06-04",
+   "function": "product"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-06-09",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-07-02",
+   "function": "marketing"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-06-26",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-07-13",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-07-05",
+   "function": "product"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-07-27",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-08-07",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-07-27",
+   "function": "customer"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-07-30",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-09-13",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-08-31",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-09-17",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-09-16",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-09-05",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-09-28",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-10-20",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-10-15",
+   "function": "sales"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-09-26",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-10-28",
+   "function": "product"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-11-16",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-10-31",
+   "function": "engineering"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-12-21",
+   "function": "product"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-11-24",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-11-23",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-12-12",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-12-29",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-01-19",
+   "function": "product"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-01-14",
+   "function": "product"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-02-07",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-02-10",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-01-24",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-02-04",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2026-03-10",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-02-23",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-02-21",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-02-28",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-03-26",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-03-27",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-03-22",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-05-01",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-06-03",
+   "function": "engineering"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-06-06",
+   "function": "engineering"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2024-04-26",
+   "round": "Series A",
+   "amount_usd": 25000000.0,
+   "investors": [
+    "Lightspeed"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Priya Raman",
+   "title": "Head of Sales",
+   "function": "sales",
+   "start_date": "2024-03-31",
+   "end_date": "2026-06-24"
+  },
+  {
+   "name": "Omar Haddad",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2014-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Intercom",
+   "first_seen": null
+  },
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  },
+  {
+   "name": "HubSpot",
+   "first_seen": null
+  },
+  {
+   "name": "Gong",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-07-12",
+   "title": "Vitalgraph lays off 12% of staff in restructuring",
+   "kind": "layoff",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 59,
+  "keywords": 18123,
+  "backlinks": 17557
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

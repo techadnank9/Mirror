@@ -1,0 +1,375 @@
+{
+ "name": "Quillpay",
+ "domain": "quillpay.example",
+ "sector": "Fintech",
+ "city": "New York",
+ "lat": 40.97596022040809,
+ "lng": -73.80600012996408,
+ "headcount": 136,
+ "founded": 2019,
+ "description": "Quillpay builds fintech software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 51656
+  },
+  {
+   "month": "2025-03",
+   "visits": 50842
+  },
+  {
+   "month": "2025-04",
+   "visits": 49360
+  },
+  {
+   "month": "2025-05",
+   "visits": 50276
+  },
+  {
+   "month": "2025-06",
+   "visits": 51670
+  },
+  {
+   "month": "2025-07",
+   "visits": 53569
+  },
+  {
+   "month": "2025-08",
+   "visits": 52356
+  },
+  {
+   "month": "2025-09",
+   "visits": 53523
+  },
+  {
+   "month": "2025-10",
+   "visits": 54477
+  },
+  {
+   "month": "2025-11",
+   "visits": 53193
+  },
+  {
+   "month": "2025-12",
+   "visits": 55089
+  },
+  {
+   "month": "2026-01",
+   "visits": 57425
+  },
+  {
+   "month": "2026-02",
+   "visits": 56423
+  },
+  {
+   "month": "2026-03",
+   "visits": 58748
+  },
+  {
+   "month": "2026-04",
+   "visits": 58564
+  },
+  {
+   "month": "2026-05",
+   "visits": 58797
+  },
+  {
+   "month": "2026-06",
+   "visits": 61395
+  },
+  {
+   "month": "2026-07",
+   "visits": 63335
+  },
+  {
+   "month": "2026-08",
+   "visits": 61936
+  },
+  {
+   "month": "2026-09",
+   "visits": 61907
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-01-13",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-02-01",
+   "function": "sales"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-03-16",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-03-04",
+   "function": "product"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-04-09",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-04-26",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-05-23",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-06-16",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-06-27",
+   "function": "product"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-07-20",
+   "function": "product"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-07-14",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-08-10",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-09-22",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-09-20",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-09-14",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-10-09",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-11-17",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-10-30",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-12-20",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-11-22",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-12-12",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2026-01-06",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-02-18",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2026-02-26",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-03-06",
+   "function": "customer"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-03-18",
+   "function": "product"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-04-04",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-05-14",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-05-27",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-07-08",
+   "function": "product"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-07-19",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-06-26",
+   "function": "ops"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2026-07-23",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-08-27",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-09-10",
+   "function": "customer"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2025-11-10",
+   "round": "Seed",
+   "amount_usd": 4000000.0,
+   "investors": [
+    "Sequoia"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Ben Carter",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2019-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Intercom",
+   "first_seen": null
+  },
+  {
+   "name": "HubSpot",
+   "first_seen": null
+  },
+  {
+   "name": "dbt",
+   "first_seen": null
+  },
+  {
+   "name": "Datadog",
+   "first_seen": null
+  },
+  {
+   "name": "Gong",
+   "first_seen": null
+  }
+ ],
+ "news": [],
+ "seo": {
+  "domain_rating": 36,
+  "keywords": 10443,
+  "backlinks": 14778
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

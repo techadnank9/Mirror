@@ -1,0 +1,404 @@
+{
+ "name": "Gitgale",
+ "domain": "gitgale.example",
+ "sector": "Devtools",
+ "city": "Berlin",
+ "lat": 52.60801199389242,
+ "lng": 13.70125561632257,
+ "headcount": 80,
+ "founded": 2014,
+ "description": "Gitgale builds devtools software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 42880
+  },
+  {
+   "month": "2025-03",
+   "visits": 43916
+  },
+  {
+   "month": "2025-04",
+   "visits": 43648
+  },
+  {
+   "month": "2025-05",
+   "visits": 44404
+  },
+  {
+   "month": "2025-06",
+   "visits": 45764
+  },
+  {
+   "month": "2025-07",
+   "visits": 44777
+  },
+  {
+   "month": "2025-08",
+   "visits": 44594
+  },
+  {
+   "month": "2025-09",
+   "visits": 44173
+  },
+  {
+   "month": "2025-10",
+   "visits": 43287
+  },
+  {
+   "month": "2025-11",
+   "visits": 43655
+  },
+  {
+   "month": "2025-12",
+   "visits": 42934
+  },
+  {
+   "month": "2026-01",
+   "visits": 42465
+  },
+  {
+   "month": "2026-02",
+   "visits": 41677
+  },
+  {
+   "month": "2026-03",
+   "visits": 42686
+  },
+  {
+   "month": "2026-04",
+   "visits": 41449
+  },
+  {
+   "month": "2026-05",
+   "visits": 42584
+  },
+  {
+   "month": "2026-06",
+   "visits": 41971
+  },
+  {
+   "month": "2026-07",
+   "visits": 40833
+  },
+  {
+   "month": "2026-08",
+   "visits": 42638
+  },
+  {
+   "month": "2026-09",
+   "visits": 42111
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Staff Customer Manager",
+   "date": "2024-12-29",
+   "function": "customer"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-01-21",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-01-29",
+   "function": "product"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-02-22",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-02-14",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-03-23",
+   "function": "product"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-04-20",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-03-28",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-04-28",
+   "function": "product"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-05-12",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-05-29",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-06-29",
+   "function": "engineering"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-07-26",
+   "function": "product"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-09-18",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-08-25",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-11-13",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-12-14",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-12-09",
+   "function": "sales"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-12-23",
+   "function": "product"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-02-15",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-01-25",
+   "function": "product"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-03-17",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-02-24",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-04-14",
+   "function": "product"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-05-15",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-05-04",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-05-24",
+   "function": "sales"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-06-26",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-07-30",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2026-08-09",
+   "function": "customer"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-08-16",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-07-20",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2026-08-23",
+   "function": "customer"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-09-08",
+   "function": "engineering"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-09-17",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-09-13",
+   "function": "product"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2024-05-25",
+   "round": "Seed",
+   "amount_usd": 3000000.0,
+   "investors": [
+    "Founders Fund"
+   ]
+  },
+  {
+   "date": "2026-04-13",
+   "round": "Series A",
+   "amount_usd": 12000000.0,
+   "investors": [
+    "a16z"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Aisha Okafor",
+   "title": "VP Sales",
+   "function": "sales",
+   "start_date": "2026-07-28",
+   "end_date": null
+  },
+  {
+   "name": "Omar Haddad",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2014-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "HubSpot",
+   "first_seen": "2026-08-09"
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  },
+  {
+   "name": "Datadog",
+   "first_seen": null
+  },
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-04-13",
+   "title": "Gitgale raises $12M Series A led by a16z",
+   "kind": "funding",
+   "url": null
+  },
+  {
+   "date": "2026-07-28",
+   "title": "Gitgale appoints VP Sales",
+   "kind": "exec",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 46,
+  "keywords": 12797,
+  "backlinks": 38269
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

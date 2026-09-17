@@ -1,0 +1,350 @@
+{
+ "name": "Basketry",
+ "domain": "basketry.example",
+ "sector": "Retail",
+ "city": "Berlin",
+ "lat": 52.39281800766207,
+ "lng": 13.57075522305217,
+ "headcount": 165,
+ "founded": 2019,
+ "description": "Basketry builds retail software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 26079
+  },
+  {
+   "month": "2025-03",
+   "visits": 26276
+  },
+  {
+   "month": "2025-04",
+   "visits": 27107
+  },
+  {
+   "month": "2025-05",
+   "visits": 26525
+  },
+  {
+   "month": "2025-06",
+   "visits": 25966
+  },
+  {
+   "month": "2025-07",
+   "visits": 26646
+  },
+  {
+   "month": "2025-08",
+   "visits": 26621
+  },
+  {
+   "month": "2025-09",
+   "visits": 26409
+  },
+  {
+   "month": "2025-10",
+   "visits": 25745
+  },
+  {
+   "month": "2025-11",
+   "visits": 25344
+  },
+  {
+   "month": "2025-12",
+   "visits": 26427
+  },
+  {
+   "month": "2026-01",
+   "visits": 25750
+  },
+  {
+   "month": "2026-02",
+   "visits": 25383
+  },
+  {
+   "month": "2026-03",
+   "visits": 25999
+  },
+  {
+   "month": "2026-04",
+   "visits": 26944
+  },
+  {
+   "month": "2026-05",
+   "visits": 27950
+  },
+  {
+   "month": "2026-06",
+   "visits": 28028
+  },
+  {
+   "month": "2026-07",
+   "visits": 29192
+  },
+  {
+   "month": "2026-08",
+   "visits": 29581
+  },
+  {
+   "month": "2026-09",
+   "visits": 29229
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-01-30",
+   "function": "ops"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-02-18",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-03-01",
+   "function": "engineering"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-03-18",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-03-22",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-04-20",
+   "function": "engineering"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-04-19",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-05-07",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-04-30",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-06-23",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-06-17",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-07-15",
+   "function": "engineering"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-07-13",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-08-14",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-09-09",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-08-28",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-10-17",
+   "function": "ops"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-11-11",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-10-26",
+   "function": "product"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-12-14",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-12-24",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2026-01-23",
+   "function": "marketing"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-03-11",
+   "function": "product"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2026-02-24",
+   "function": "product"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2026-05-17",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-05-22",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-07-17",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-06-26",
+   "function": "product"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2026-07-22",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-09-05",
+   "function": "product"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2025-06-11",
+   "round": "Seed",
+   "amount_usd": 6000000.0,
+   "investors": [
+    "Lightspeed"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Omar Haddad",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2019-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Datadog",
+   "first_seen": null
+  },
+  {
+   "name": "dbt",
+   "first_seen": null
+  },
+  {
+   "name": "Vercel",
+   "first_seen": null
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  },
+  {
+   "name": "Gong",
+   "first_seen": null
+  }
+ ],
+ "news": [],
+ "seo": {
+  "domain_rating": 32,
+  "keywords": 7113,
+  "backlinks": 14159
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

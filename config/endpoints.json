@@ -1,0 +1,12 @@
+{
+  "_readme": "One entry per signal. `search` is the catalog query `mirror discover` runs. Fill provider and endpoint from the discover output (or let `mirror resolve --auto` take the cheapest top hit), then `mirror inspect <signal>` to read the input schema and adjust `input`. Placeholders: {domain} {name} {icp.*}. `path` optionally points at the list inside the output.",
+  "pool":    {"search": "company search industry headcount geography", "provider": null, "endpoint": null, "input": {"industry": "{icp.industries.0}", "employee_count_min": "{icp.headcount_min}", "employee_count_max": "{icp.headcount_max}", "limit": 25}, "path": null, "per_company": false},
+  "company": {"search": "company enrichment domain",                   "provider": null, "endpoint": null, "input": {"domain": "{domain}"}, "path": null, "per_company": true},
+  "traffic": {"search": "website traffic analytics",                   "provider": null, "endpoint": null, "input": {"domain": "{domain}"}, "path": null, "per_company": true},
+  "jobs":    {"search": "job postings company",                        "provider": null, "endpoint": null, "input": {"company": "{name}", "limit": 25}, "path": null, "per_company": true},
+  "funding": {"search": "company enrichment funding",                  "provider": null, "endpoint": null, "input": {"domain": "{domain}"}, "path": null, "per_company": true},
+  "people":  {"search": "person search company executives",            "provider": null, "endpoint": null, "input": {"company_domain": "{domain}", "seniority": ["vp", "cxo", "director"], "limit": 5}, "path": null, "per_company": true},
+  "tech":    {"search": "company tech stack technologies",             "provider": null, "endpoint": null, "input": {"domain": "{domain}"}, "path": null, "per_company": true},
+  "seo":     {"search": "domain rating organic keywords",              "provider": null, "endpoint": null, "input": {"target": "{domain}"}, "path": null, "per_company": true},
+  "news":    {"search": "news search company",                         "provider": null, "endpoint": null, "input": {"q": "{name}", "num": 10}, "path": null, "per_company": true}
+}

@@ -1,0 +1,528 @@
+{
+ "name": "Windward",
+ "domain": "windward.example",
+ "sector": "Climate",
+ "city": "San Francisco",
+ "lat": 37.71648396941166,
+ "lng": -122.54032512817912,
+ "headcount": 199,
+ "founded": 2019,
+ "description": "Windward builds climate software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 88181
+  },
+  {
+   "month": "2025-03",
+   "visits": 90586
+  },
+  {
+   "month": "2025-04",
+   "visits": 89916
+  },
+  {
+   "month": "2025-05",
+   "visits": 91433
+  },
+  {
+   "month": "2025-06",
+   "visits": 97778
+  },
+  {
+   "month": "2025-07",
+   "visits": 88488
+  },
+  {
+   "month": "2025-08",
+   "visits": 85051
+  },
+  {
+   "month": "2025-09",
+   "visits": 78468
+  },
+  {
+   "month": "2025-10",
+   "visits": 73215
+  },
+  {
+   "month": "2025-11",
+   "visits": 66577
+  },
+  {
+   "month": "2025-12",
+   "visits": 60406
+  },
+  {
+   "month": "2026-01",
+   "visits": 56792
+  },
+  {
+   "month": "2026-02",
+   "visits": 52251
+  },
+  {
+   "month": "2026-03",
+   "visits": 50251
+  },
+  {
+   "month": "2026-04",
+   "visits": 46290
+  },
+  {
+   "month": "2026-05",
+   "visits": 42430
+  },
+  {
+   "month": "2026-06",
+   "visits": 38275
+  },
+  {
+   "month": "2026-07",
+   "visits": 34577
+  },
+  {
+   "month": "2026-08",
+   "visits": 31746
+  },
+  {
+   "month": "2026-09",
+   "visits": 30326
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2025-01-10",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2024-12-31",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-01-13",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2024-12-29",
+   "function": "sales"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-01-18",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-01-30",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-02-13",
+   "function": "ops"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-03-05",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-02-25",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-03-13",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-03-07",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-03-18",
+   "function": "product"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-04-16",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2025-03-31",
+   "function": "customer"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-04-10",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-04-27",
+   "function": "sales"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-05-13",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-05-31",
+   "function": "engineering"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-06-05",
+   "function": "ops"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-06-14",
+   "function": "sales"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2025-06-24",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-06-18",
+   "function": "marketing"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-07-04",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-06-30",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-06-30",
+   "function": "engineering"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-07-07",
+   "function": "product"
+  },
+  {
+   "title": "Ops Manager",
+   "date": "2025-08-21",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2025-08-01",
+   "function": "product"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-07-26",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-08-27",
+   "function": "product"
+  },
+  {
+   "title": "Lead Customer Manager",
+   "date": "2025-09-11",
+   "function": "customer"
+  },
+  {
+   "title": "Senior Marketing Manager",
+   "date": "2025-09-06",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2025-10-13",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2025-10-13",
+   "function": "ops"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-10-13",
+   "function": "customer"
+  },
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-09-30",
+   "function": "engineering"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-10-13",
+   "function": "engineering"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-11-09",
+   "function": "product"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-11-13",
+   "function": "ops"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-11-11",
+   "function": "product"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-11-13",
+   "function": "product"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-11-22",
+   "function": "marketing"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-11-25",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-12-16",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2025-12-17",
+   "function": "sales"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2025-12-24",
+   "function": "customer"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-01-12",
+   "function": "sales"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2025-12-29",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Customer Manager",
+   "date": "2025-12-26",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-02-16",
+   "function": "ops"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-01-26",
+   "function": "product"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-02-02",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2026-03-14",
+   "function": "engineering"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-03-18",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-04-17",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-03-31",
+   "function": "marketing"
+  },
+  {
+   "title": "Senior Ops Manager",
+   "date": "2026-03-31",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-04-08",
+   "function": "product"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-04-08",
+   "function": "product"
+  },
+  {
+   "title": "Lead Marketing Manager",
+   "date": "2026-04-28",
+   "function": "marketing"
+  },
+  {
+   "title": "Customer Manager",
+   "date": "2026-04-27",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-04-21",
+   "function": "ops"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2024-08-10",
+   "round": "Series A",
+   "amount_usd": 10000000.0,
+   "investors": [
+    "a16z"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Dana Whitfield",
+   "title": "Head of Sales",
+   "function": "sales",
+   "start_date": "2024-03-31",
+   "end_date": "2026-08-25"
+  },
+  {
+   "name": "Ben Carter",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2019-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Stripe",
+   "first_seen": null
+  },
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  },
+  {
+   "name": "Outreach",
+   "first_seen": null
+  },
+  {
+   "name": "dbt",
+   "first_seen": null
+  },
+  {
+   "name": "Segment",
+   "first_seen": null
+  },
+  {
+   "name": "Salesforce",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-30",
+   "title": "Windward lays off 30% of staff in restructuring",
+   "kind": "layoff",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 37,
+  "keywords": 9560,
+  "backlinks": 2693
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}

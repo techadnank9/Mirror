@@ -1,0 +1,9 @@
+{
+  "name": "Mid-market B2B software, North America and Europe",
+  "industries": ["software", "fintech", "developer tools", "health tech"],
+  "headcount_min": 20,
+  "headcount_max": 500,
+  "countries": ["United States", "United Kingdom", "Canada", "Germany"],
+  "pool_size": 50,
+  "exclude_domains": []
+}

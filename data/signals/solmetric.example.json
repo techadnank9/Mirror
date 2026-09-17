@@ -1,0 +1,384 @@
+{
+ "name": "Solmetric",
+ "domain": "solmetric.example",
+ "sector": "Climate",
+ "city": "San Francisco",
+ "lat": 37.67405675680141,
+ "lng": -122.49132007962675,
+ "headcount": 40,
+ "founded": 2018,
+ "description": "Solmetric builds climate software for mid-market teams.",
+ "traffic": [
+  {
+   "month": "2025-02",
+   "visits": 17524
+  },
+  {
+   "month": "2025-03",
+   "visits": 17248
+  },
+  {
+   "month": "2025-04",
+   "visits": 17722
+  },
+  {
+   "month": "2025-05",
+   "visits": 17580
+  },
+  {
+   "month": "2025-06",
+   "visits": 17508
+  },
+  {
+   "month": "2025-07",
+   "visits": 17321
+  },
+  {
+   "month": "2025-08",
+   "visits": 17958
+  },
+  {
+   "month": "2025-09",
+   "visits": 17550
+  },
+  {
+   "month": "2025-10",
+   "visits": 17917
+  },
+  {
+   "month": "2025-11",
+   "visits": 18610
+  },
+  {
+   "month": "2025-12",
+   "visits": 18352
+  },
+  {
+   "month": "2026-01",
+   "visits": 18423
+  },
+  {
+   "month": "2026-02",
+   "visits": 19038
+  },
+  {
+   "month": "2026-03",
+   "visits": 19408
+  },
+  {
+   "month": "2026-04",
+   "visits": 19403
+  },
+  {
+   "month": "2026-05",
+   "visits": 18889
+  },
+  {
+   "month": "2026-06",
+   "visits": 18991
+  },
+  {
+   "month": "2026-07",
+   "visits": 18979
+  },
+  {
+   "month": "2026-08",
+   "visits": 19491
+  },
+  {
+   "month": "2026-09",
+   "visits": 19367
+  }
+ ],
+ "jobs": [
+  {
+   "title": "Lead Engineering Engineer",
+   "date": "2025-02-13",
+   "function": "engineering"
+  },
+  {
+   "title": "Lead Product Manager",
+   "date": "2025-01-28",
+   "function": "product"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-03-08",
+   "function": "ops"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-03-05",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Engineering Engineer",
+   "date": "2025-03-29",
+   "function": "engineering"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-05-09",
+   "function": "product"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-04-26",
+   "function": "product"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-06-06",
+   "function": "sales"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-06-02",
+   "function": "product"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2025-07-10",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2025-08-19",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2025-08-16",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2025-09-13",
+   "function": "ops"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2025-09-28",
+   "function": "product"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-11-03",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Sales Manager",
+   "date": "2025-11-06",
+   "function": "sales"
+  },
+  {
+   "title": "Marketing Manager",
+   "date": "2025-12-03",
+   "function": "marketing"
+  },
+  {
+   "title": "Lead Sales Manager",
+   "date": "2025-11-25",
+   "function": "sales"
+  },
+  {
+   "title": "Sales Manager",
+   "date": "2026-01-03",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Product Manager",
+   "date": "2026-02-23",
+   "function": "product"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-04-16",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Sales Manager",
+   "date": "2026-05-15",
+   "function": "sales"
+  },
+  {
+   "title": "Senior Customer Manager",
+   "date": "2026-06-11",
+   "function": "customer"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-06-07",
+   "function": "engineering"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-07-03",
+   "function": "product"
+  },
+  {
+   "title": "Staff Ops Manager",
+   "date": "2026-08-17",
+   "function": "ops"
+  },
+  {
+   "title": "Engineering Engineer",
+   "date": "2026-08-11",
+   "function": "engineering"
+  },
+  {
+   "title": "Staff Product Manager",
+   "date": "2026-07-22",
+   "function": "product"
+  },
+  {
+   "title": "Staff Marketing Manager",
+   "date": "2026-08-31",
+   "function": "marketing"
+  },
+  {
+   "title": "Product Manager",
+   "date": "2026-08-27",
+   "function": "product"
+  },
+  {
+   "title": "Lead Ops Manager",
+   "date": "2026-08-30",
+   "function": "ops"
+  },
+  {
+   "title": "Staff Engineering Engineer",
+   "date": "2026-08-19",
+   "function": "engineering"
+  }
+ ],
+ "funding": [
+  {
+   "date": "2024-06-23",
+   "round": "Seed",
+   "amount_usd": 3000000.0,
+   "investors": [
+    "Accel"
+   ]
+  },
+  {
+   "date": "2026-05-08",
+   "round": "Series B",
+   "amount_usd": 35000000.0,
+   "investors": [
+    "Northwind Capital"
+   ]
+  }
+ ],
+ "people": [
+  {
+   "name": "Elena Voss",
+   "title": "VP Marketing",
+   "function": "marketing",
+   "start_date": "2026-08-07",
+   "end_date": null
+  },
+  {
+   "name": "Yuki Tanaka",
+   "title": "CEO",
+   "function": "other",
+   "start_date": "2018-01-01",
+   "end_date": null
+  }
+ ],
+ "tech": [
+  {
+   "name": "Outreach",
+   "first_seen": "2026-08-26"
+  },
+  {
+   "name": "dbt",
+   "first_seen": null
+  },
+  {
+   "name": "Snowflake",
+   "first_seen": null
+  },
+  {
+   "name": "Intercom",
+   "first_seen": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-05-08",
+   "title": "Solmetric raises $35M Series B led by Northwind Capital",
+   "kind": "funding",
+   "url": null
+  },
+  {
+   "date": "2026-08-07",
+   "title": "Solmetric appoints VP Marketing",
+   "kind": "exec",
+   "url": null
+  }
+ ],
+ "seo": {
+  "domain_rating": 43,
+  "keywords": 15196,
+  "backlinks": 27107
+ },
+ "sources": [
+  {
+   "signal": "company",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "traffic",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "jobs",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "funding",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "people",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "news",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  },
+  {
+   "signal": "seo",
+   "provider": "synthetic",
+   "endpoint": "demo",
+   "run_url": null,
+   "charge": "0",
+   "status": "SYNTHETIC"
+  }
+ ]
+}
